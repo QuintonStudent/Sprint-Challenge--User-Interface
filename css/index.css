@@ -80,6 +80,10 @@ header nav a {
 	color: #000;
 }
 
+.banner {
+	margin: 0 0 25px;
+}
+
 .container {
     width: 800px;
     margin: 0 auto;
