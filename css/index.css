@@ -80,6 +80,10 @@ header nav a {
 	color: #000;
 }
 
+hr {
+	border-top: dashed 1px;
+}
+
 .banner {
 	margin: 0 0 25px;
 }
