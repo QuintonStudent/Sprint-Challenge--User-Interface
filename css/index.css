@@ -278,3 +278,10 @@ button:focus {
 .middle-content .boxes .box10{
 	background-color: dodgerblue;
 }
+
+/* media queries */
+@media (max-width: 600px) {
+	.container {
+		width: 400px;
+	}
+}
