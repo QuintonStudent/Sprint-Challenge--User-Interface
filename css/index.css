@@ -213,8 +213,6 @@ footer nav a {
 
 /* about.hmtl buttons */
 button {
-	-webkit-border-radius: 8;
-  -moz-border-radius: 8;
   border-radius: 8px;
   font-family: Arial;
   color: #000000;
@@ -232,8 +230,12 @@ button:hover {
 }
 
 button:active {
-	background: grey;
+	background: #dedede;
 	text-decoration: none;
+}
+
+button:focus {
+	outline: 0;
 }
 
 /* box colors */
